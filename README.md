@@ -7,7 +7,7 @@ To use this, you will need to install [Node.js](https://nodejs.org/en/) version 
 Now you want to place your bot/user token in the program when saying: `[>]  Token:`. Once you've done that, you can proceed on what the program tells you to do.
 
 ### What does it clone?
-`This program clones:
+`This program clones:`
 
 - Roles
 - Permission Overwrites in channels
