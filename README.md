@@ -7,14 +7,14 @@ To use this, you will need to install [Node.js](https://nodejs.org/en/) version 
 Now you want to place your bot/user token in the program when saying: `[>]  Token:`. Once you've done that, you can proceed on what the program tells you to do.
 
 ### What does it clone?
-This program clones:
+`This program clones:
 
-Roles
-Permission Overwrites in channels
-Voice channels
-Text channels
-Categories
-Emojis
+- Roles
+- Permission Overwrites in channels
+- Voice channels
+- Text channels
+- Categories
+- Emojis
 
 ### Prerequisites
 - If you are going to run this on a bot account, make sure it is on less than 10 servers as Discord only allows server creation for bots that are in less than 10 guilds.
