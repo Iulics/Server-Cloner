@@ -4,7 +4,7 @@ Server Cloner is a simple `python` app that lets you easily clone other Discord 
 
 ### Setup
 To use this, you will need to install [Node.js](https://nodejs.org/en/) version 8 or higher. When installed, run `start`. This will install all required dependencies.
-Now you want to place your bot/user token in the program when saying: `[>]  Token:`. Once you've done that, you can proceed on what the program tells you to do.
+Now you want to place your bot/user token in the program when saying: `[>]   Token:`. Once you've done that, you can proceed on what the program tells you to do.
 
 ### What does it clone?
 `This program clones:`
